@@ -1,0 +1,100 @@
+{
+      "users": [
+            {
+                  "id": 1,
+                  "name": "Kaíque",
+                  "idade": 0,
+                  "cep": "Natal RN",
+                  "cargo": "Estágiario",
+                  "time":"EQ - QA"
+            },
+            {
+                  "id": 2,
+                  "name": "Humberto (Mandetta)",
+                  "idade": 21,
+                  "cep": "Campo Grande",
+                  "cargo": "Estágiario",
+                  "time":"EQ - QA"
+            },
+            {
+                  "id": 3,
+                  "name": "Patrick",
+                  "idade": 21,
+                  "cep": "Campo Grande",
+                  "cargo": "Estágiario",
+                  "time":"EQ - QA"
+            },
+            {
+                  "id": 4,
+                  "name": "João Gabriel (Jaum)",
+                  "idade": 21,
+                  "cep": "Campo Grande",
+                  "cargo": "Estágiario",
+                  "time":"EQ - Front"
+            },
+            {
+                  "id": 5,
+                  "name": "Lucas Freitas (Freitas)",
+                  "idade": 21,
+                  "cep": "Campo Grande",
+                  "cargo": "Estágiario",
+                  "time":"EQ - Front"
+            },
+            {
+                  "id": 6,
+                  "name": "Mateus Ribeiro (Mateux)",
+                  "idade": 21,
+                  "cep": "Campo Grande",
+                  "cargo": "Estágiario",
+                  "time":"EQ - Front"
+            },
+            {
+                  "id": 7,
+                  "name": "Roberto Junior (Júnior)",
+                  "idade": 21,
+                  "cep": "Campo Grande",
+                  "cargo": "Estágiario",
+                  "time":"EQ - Front"
+            },
+            {
+                  "id": 8,
+                  "name": "Vinicius (Vini)",
+                  "idade": 21,
+                  "cep": "Campo Grande",
+                  "cargo": "Estágiario",
+                  "time":"EQ - Front"
+            },
+            {
+                  "id": 9,
+                  "name": "Antônio Gabriel (Antônio)",
+                  "idade": 21,
+                  "cep": "Campo Grande",
+                  "cargo": "Estágiario",
+                  "time":"EQ - Back"
+            },
+            {
+                  "id": 10,
+                  "name": "Gabriel Britto (Gabs)",
+                  "idade": 21,
+                  "cep": "Campo Grande",
+                  "cargo": "Estágiario",
+                  "time":"EQ - Back"
+            },
+            {
+                  "id": 11,
+                  "name": "Guilherme (Tarumoto)",
+                  "idade": 21,
+                  "cep": "Campo Grande",
+                  "cargo": "Estágiario",
+                  "time":"EQ - Back"
+            },
+            {
+                  "id": 12,
+                  "name": "Lucas Volpe (Volpe) ",
+                  "idade": 21,
+                  "cep": "Campo Grande",
+                  "cargo": "Estágiario",
+                  "time":"EQ - Back"
+            }
+      ]
+}
