@@ -6,7 +6,7 @@
       </li>
     </ul>
     <p v-else class="text-center">Carregando...</p>
-    <form @submit.prevent="submit">
+    <form @submit.prevent="submit" class="d-flex flex-column">
       <input v-model="newUser.name" type="text" placeholder="Name">
       <input v-model="newUser.email" type="email" placeholder="Email">
     <button type="submit">Add User</button>
@@ -49,9 +49,3 @@ export default {
   },
 };
 </script>
-
-<style>
-* {
-  margin: 5px;
-}
-</style>
