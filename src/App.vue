@@ -8,7 +8,6 @@
     <p v-else class="text-center">Carregando...</p>
     <form @submit.prevent="submit" class="d-flex flex-column">
       <input v-model="newUser.name" type="text" placeholder="Name">
-      <input v-model="newUser.email" type="email" placeholder="Email">
     <button type="submit">Add User</button>
   </form>
   </div>
@@ -21,7 +20,6 @@ export default {
     return {
       newUser: {
         name: "",
-        email: ""
       },
       users: []
     };
@@ -40,11 +38,11 @@ export default {
         await axios.post("/api/users", this.newUser);
         this.newUser = {
           name: "",
-          email: ""
         };
       } catch (error) {
         console.error(error);
       }
+      this.fetchUsers()
     }
   },
 };
